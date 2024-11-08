@@ -1,20 +1,18 @@
 # MiniProj1
 
-This template should help get you started developing with Vue 3 in Vite.
+Mini Projeto 1, tarefa 2.2 da UC Programação Web Avançada do Mestrado em Engenharia Informártica e Tecnologia Web.
 
-## Recommended IDE Setup
+**Índice**
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+- [Project Setup](#project-setup)
+- [Wireframes](#wireframes)
+- [Screenshots](#screenshots)
 
 ## Project Setup
+
+Como preparar o ambiente e correr o projeto
+
+### Install dependencies
 
 Run `yarn` OR `npm install`
 
@@ -31,3 +29,25 @@ Optionally, preview the production build by running `yarn preview` OR `npm run p
 ### Lint with [ESLint](https://eslint.org/)
 
 Run `yarn lint` OR `npm run lint`
+
+## Wireframes
+
+Wireframe página **"Quem sou eu"**
+![Wireframe da página "Quem sou eu"](./wireframes/quem-sou-eu.png)
+
+Wireframe página **"O que faço"**
+![Wireframe da página "O que faço"](./wireframes/o-que-faco.png)
+
+Wireframe página **"Hobbies"**
+![Wireframe da página "Hobbies"](./wireframes/hobbies.png)
+
+## Screenshots
+
+Página **"Quem sou eu"**
+![Wireframe da página "Quem sou eu"](./screenshots/quem-sou-eu.png)
+
+Página **"O que faço"**
+![Wireframe da página "O que faço"](./screenshots/o-que-faco.png)
+
+Página **"Hobbies"**
+![Wireframe da página "Hobbies"](./screenshots/hobbies.png)
