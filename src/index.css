@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply h-dvh;
+  @apply text-black;
+  @apply bg-white;
+}
+
+#app {
+  @apply block;
+  @apply h-full;
+}
